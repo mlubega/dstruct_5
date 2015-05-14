@@ -1,0 +1,10 @@
+BOTH hashCode: 
+  Time to insert 5000 items: 16 ms
+  Time to lookup 5000 items: 9 ms
+  Time to delete 5000 items: 8 ms
+Table Size: 12927
+Number of Items: 5000
+Load Factor: 0.3867873443180939
+Longest Chain: 9
+Number of Length 0 Chains: 9790
+Average Chain Length: 1.593879502709595
